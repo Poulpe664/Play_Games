@@ -1,0 +1,20 @@
+
+header {
+    background-color: #282c34;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.Bouton_liste {
+    background-color: #61dafb;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
